@@ -48,5 +48,6 @@
     top: -127px;
     left: -127px;
     z-index: 1;
+    transform: rotate(45deg);
     background: red;
 }

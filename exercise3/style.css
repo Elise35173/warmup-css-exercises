@@ -1,0 +1,53 @@
+.container {
+    width: 100%
+    margin: 0 auto;
+}
+
+.interior{
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 25px;
+    Height:200px;
+    width: 200px;
+}
+
+.div1 {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 0;
+    background: blue;
+}
+
+.div2 {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 0;
+    background: blue;
+}
+
+.div3 {
+    position: relative;
+    top: 254px;
+    left: -254px;
+    z-index: 0;
+    background: blue;
+}
+
+.div4 {
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    background: blue;
+}
+
+.div5 {
+    position: relative;
+    top: -127px;
+    left: -127px;
+    z-index: 1;
+    transform: rotate(45deg);
+    background: red;
+}

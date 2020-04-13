@@ -1,0 +1,43 @@
+.container {
+    width: 0px;
+    margin: 0 auto;
+}
+
+.interior {
+    width: 200px;
+    height: 200px;
+    border: 7px solid white;
+}
+
+.div1 {
+    position: relative;
+    background-color: red;
+}
+
+.div2 {
+    position: relative;
+    top: -214px;
+    left: 228px;
+    background-color: orange;
+}
+
+.div3 {
+    position: relative;
+    top: -428px;
+    left: 456px;
+    background-color: yellow;
+}
+
+.div4 {
+    position: relative;
+    top: -548px;
+    left: 114px;
+    background-color: blue;
+}
+
+.div5 {
+    position: relative;
+    top: -762px;
+    left: 342px;
+    background-color: violet;
+}
